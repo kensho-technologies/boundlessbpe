@@ -9,8 +9,8 @@ blowup = False
 
 # inputprefix = "./models/pypyfastersuperrollbackfixupdate1GB_1000000_131072_0.9"
 # inputprefix = "./models/pypyfastersuperhalfdirect_1000000_131072_0.9_131072"
-inputname = "./models/pypyfasterhalfdirectrerun_1000000_1000000000_131072_0.9_1000_ultimate_0_40960.model"
-# inputname = "./models/pypyfasterhalfdirectrerun_1000000_1000000000_131072_0.9_1000_ultimate_1_40960.model"
+inputname = "./models/boundless_1000000_1000000000_131072_0.9_1000_ultimate_0_40960.model"
+# inputname = "./models/boundless_1000000_1000000000_131072_0.9_1000_ultimate_1_40960.model"
 
 print("inputname:", inputname)
 

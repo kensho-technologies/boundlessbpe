@@ -316,7 +316,7 @@ if __name__ == "__main__":
     blowup = bool(int(blowup))
 
     # for output can trim off the common parts                                 
-    prefix =  "pypyfasterhalfdirectrerun_1000000_1000000000_131072_"
+    prefix =  "boundless_1000000_1000000000_131072_"
     if tokenizer_name.startswith(prefix):
         tokenizer_name = tokenizer_name.removeprefix(prefix)
     else:

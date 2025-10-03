@@ -39,7 +39,7 @@ def main(logfilename):
     assert txt == "txt"
 
     print("tau:", tau)  # TODO: have two values for each
-    outprefix = f"./models/pypyfasterhalfdirectrerun_{num_lines}_{max_bytes}_{vocab_size}_{tau}_{recalc}_{patname}_{int(blowup)}"
+    outprefix = f"./models/boundless_{num_lines}_{max_bytes}_{vocab_size}_{tau}_{recalc}_{patname}_{int(blowup)}"
     print("outprefix:", outprefix)
 
     # which pattern to use
