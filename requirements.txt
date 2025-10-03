@@ -1,0 +1,5 @@
+regex
+
+# Baseline comparison dependencies (optional)
+tokenizers
+transformers
