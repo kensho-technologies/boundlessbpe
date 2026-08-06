@@ -1,5 +1,12 @@
 # BoundlessBPE
 
+---
+
+**An equivalent, but much faster, implementation of this tokenizer is now available at [this repository](https://github.com/kensho-technologies/fastboundlessbpe) (see COLM 2026 [paper](https://arxiv.org/abs/2604.05192)).**
+
+---
+
+
 The repo contains the code to accompany the [BoundlessBPE paper](https://arxiv.org/abs/2504.00178).
 
 This repository includes Python implementations of the BoundlessBPE tokenization algorithms, including:
